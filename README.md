@@ -1,4 +1,4 @@
-### Olá" Eu sou o Gustavo Rincha 👋
+### Olá Eu sou o Gustavo Rincha 👋
 
 - Cursando Big Data no Agronegócio 
 - Estudando Front-End (HTML, CSS e JavaScript)

@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Gustavo Rincha 👋
 
-- Cursando Big Data no Agronegócio 
+- Formado em Big Data no Agronegócio 
 - Estudando Front-End (HTML, CSS e JavaScript)
 
 <div style="display: inline_block"><br>

@@ -28,7 +28,6 @@
 
 * 👨‍💻 Atualmente, estou aprimorando minhas habilidades em arquitetura de software e boas práticas de desenvolvimento (SOLID, Clean Code).
 * 🎓 Focado em concluir minha graduação em Engenharia da Computação, aprofundando minha base teórica para resolver desafios ainda maiores.
-* 💡 Tenho grande interesse em tecnologias de nuvem (Cloud) e em otimização de performance de aplicações.
 * 📫 **Estou aberto a novos desafios e oportunidades!** Se você gostou do meu perfil, sinta-se à vontade para entrar em contato.
 
 ---
@@ -43,13 +42,4 @@
   <a href="mailto:gustavo.rincha@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-</p>
-
----
-
-## 📊 Minhas Estatísticas no GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoRincha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRincha&layout=compact&langs_count=7&theme=dracula"/>
 </p>
